@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eanisutkin
-- 👀 I’m interested in C++ and PHP, bacand programming in general
-- 🌱 I’m currently learning about symphony and Laravel frameworks
+- 👀 I’m interested in C++ and PHP, backend programming in general
+- 🌱 I’m currently learning about Symphony and Laravel frameworks
 - 💞️ I’m looking to collaborate on C++ backend or PHP backend, or any available backend, I am prepared to learn anew language from scratch
 - 📫 I can be reached through my main e-mail eanisutkin@gmail.com. 
 
